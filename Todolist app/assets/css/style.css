@@ -1,8 +1,9 @@
 body{
 	font-family: 'Montserrat', sans-serif;
-	background: #00B4DB;  /* fallback for old browsers */
-	background: -webkit-linear-gradient(to left, #0083B0, #00B4DB);  /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to left, #0083B0, #00B4DB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background: #5433FF;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #A5FECB, #20BDFF, #5433FF);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #A5FECB, #20BDFF, #5433FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 
 }
 
@@ -80,5 +81,34 @@ span{
 
 li:hover span{
 	width: 40px;
+	opacity: 1.0;
+}
+
+.fa-star{
+	color: lightgray;
+	height:30px;
+	text-align: center;
+	margin-right: 20px;
+	width: 40px;
+	display: inline-block;
+	float: right;
+	margin-top: 10px;
+	opacity: 0;
+	transition: 0.2s ease-out;
+}
+
+.important{
+	color: gold!important;
+	height:30px;
+	text-align: center;
+	margin-right: 20px;
+	width: 40px;
+	display: inline-block;
+	float: right;
+	margin-top: 10px;
+	opacity: 1.0;
+}
+
+li:hover .fa-star{
 	opacity: 1.0;
 }
