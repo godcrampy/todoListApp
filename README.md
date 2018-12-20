@@ -8,7 +8,7 @@ Download the Todo List App directory and run index.html on your web browser
 
 ## Built With
 
-* [Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/) - The web framework used
+* [jQuery](https://jquery.com/) - The javascript library used
 
 ## Authors
 
