@@ -12,7 +12,7 @@ Download the Todo List App directory and run index.html on your web browser
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [GodCrampy](https://github.com/godcrampy)
+* **Sahil Bondre** - [GodCrampy](https://github.com/godcrampy)
 
 
 ## License
