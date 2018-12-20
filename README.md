@@ -1,4 +1,4 @@
-# Project Title
+# Todo List App
 
 Minimal Todo list web app made as a part of Web Development Bootcamp Course by Colt Steele. Helps in improving color identification from hex codes
 
